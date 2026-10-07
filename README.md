@@ -63,6 +63,3 @@ src/
 | `npm run web`     | Abre o app no navegador                     |
 | `npm run lint`    | Executa o linter                            |
 
-## Autor
-
-Desenvolvido por **Vitor Batista** como parte da disciplina *Tópicos Especiais em Sistemas de Informação*.
